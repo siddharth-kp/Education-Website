@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.9fc90fcd.css",
-    "main.js": "/static/js/main.08ce298b.js",
-    "static/media/back.webp": "/static/media/back.93d3f802b480eeabae07.webp",
-    "static/media/awrapper.webp": "/static/media/awrapper.031ce77a398171427673.webp",
-    "static/media/bg.webp": "/static/media/bg.baa1024a4ae092566a75.webp",
-    "index.html": "/index.html",
-    "main.9fc90fcd.css.map": "/static/css/main.9fc90fcd.css.map",
-    "main.08ce298b.js.map": "/static/js/main.08ce298b.js.map"
+    "main.css": "/Education-Website/static/css/main.772dafc8.css",
+    "main.js": "/Education-Website/static/js/main.08ce298b.js",
+    "static/media/back.webp": "/Education-Website/static/media/back.93d3f802b480eeabae07.webp",
+    "static/media/awrapper.webp": "/Education-Website/static/media/awrapper.031ce77a398171427673.webp",
+    "static/media/bg.webp": "/Education-Website/static/media/bg.baa1024a4ae092566a75.webp",
+    "index.html": "/Education-Website/index.html",
+    "main.772dafc8.css.map": "/Education-Website/static/css/main.772dafc8.css.map",
+    "main.08ce298b.js.map": "/Education-Website/static/js/main.08ce298b.js.map"
   },
   "entrypoints": [
-    "static/css/main.9fc90fcd.css",
+    "static/css/main.772dafc8.css",
     "static/js/main.08ce298b.js"
   ]
 }
